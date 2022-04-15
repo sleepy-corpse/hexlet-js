@@ -1,0 +1,1 @@
+console.log('My first file created through VScode in WSL')
